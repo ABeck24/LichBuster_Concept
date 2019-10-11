@@ -1,4 +1,4 @@
-# LichBuster-Concept 
+# LichBuster_Concept 
  Initial Concept Prototype (UE4.22.3)
  
 ## Downloading Instructions
