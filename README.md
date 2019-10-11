@@ -3,10 +3,10 @@
  
 ## Downloading Instructions
 1. Download the repository to Github Desktop
-2. Navigate to the repository folder, Right-Click on the .uproject file (LichBuster_Concept.uproject) and select "Generate Visual Studios project files". If this option isn't available to you, make sure you have a version of Visual Studios installed and have opened atleast one UE4 project on that computer (if you haven't, simply create a new c++ project)
+2. Navigate to the repository folder, Right-Click on the .uproject file (LichBuster_Concept.uproject) and select "Generate Visual Studios    project files". If this option isn't available to you, make sure you have a version of Visual Studios installed and have opened atleast    one UE4 project on that computer (if you haven't, simply create a new c++ project)
 3. Either Double-Click the .uproject file or Open UE4 Launcher, browse to the repository folder and open the .uproject file
-4. Make sure the inputs are set up (Project Settings -> Input -> Mappings). If they're blank, hit import and choose the "BaseInput.ini" from the root directory.  
-Work on whatever you need to inside of Unreal.
+4. Make sure the inputs are set up (Project Settings -> Input -> Mappings). If they're blank, hit import and choose the "BaseInput.ini"      from the root directory.  
+5. Work on whatever you need to inside of Unreal.
 
 ## Committing to Github (when finished for the day)
 1. Make sure that you're in the correct branch on Github Desktop before committing (on the top bar)
