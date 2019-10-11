@@ -17,7 +17,8 @@
 If someone else has worked on your branch since the last time you did, pull their changes
 1. Open Github Desktop
 2. Make sure you are on the correct branch (top bar)
-3. If there have been changes made to that branch, the "push to origin" button will change to "pull from origin". Click on it.
+3. Hit "Fetch Origin" 
+4. If there have been changes made to that branch, the  button will change to "Pull From Origin". Click on it.
 
 ## Fixing Mistakes
 If for whatever reason, something you change breaks your project (even after committing)
