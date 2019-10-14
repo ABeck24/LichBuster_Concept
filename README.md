@@ -24,5 +24,5 @@ If someone else has worked on your branch since the last time you did, pull thei
 If for whatever reason, something you change breaks your project (even after committing)
 1. Open Github Desktop and make sure you're in the correct branch (top bar)
 2. On the left side, toggle from "Changes" to "History"
-3. Find the problematic commit (it should be the most recent one in most cases)
+3. Find the problematic commit (it should be the most recent one in most cases.
 4. Right Click and "revert this commit"
